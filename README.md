@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/ImamAbdullahKhan)
 <!--
 **ImamAbdullahKhan/ImamAbdullahKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
